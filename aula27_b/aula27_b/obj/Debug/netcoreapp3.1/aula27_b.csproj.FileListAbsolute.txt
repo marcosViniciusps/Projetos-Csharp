@@ -1,0 +1,11 @@
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\bin\Debug\netcoreapp3.1\aula27_b.exe
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\bin\Debug\netcoreapp3.1\aula27_b.deps.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\bin\Debug\netcoreapp3.1\aula27_b.runtimeconfig.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\bin\Debug\netcoreapp3.1\aula27_b.runtimeconfig.dev.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\bin\Debug\netcoreapp3.1\aula27_b.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\bin\Debug\netcoreapp3.1\aula27_b.pdb
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\obj\Debug\netcoreapp3.1\aula27_b.csprojAssemblyReference.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\obj\Debug\netcoreapp3.1\aula27_b.AssemblyInfoInputs.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\obj\Debug\netcoreapp3.1\aula27_b.AssemblyInfo.cs
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\obj\Debug\netcoreapp3.1\aula27_b.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula27_b\aula27_b\obj\Debug\netcoreapp3.1\aula27_b.pdb
