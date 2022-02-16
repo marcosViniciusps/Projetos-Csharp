@@ -1,0 +1,11 @@
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\bin\Debug\netcoreapp3.1\course.exe
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\bin\Debug\netcoreapp3.1\course.deps.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.dev.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\bin\Debug\netcoreapp3.1\course.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\bin\Debug\netcoreapp3.1\course.pdb
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\obj\Debug\netcoreapp3.1\course.csprojAssemblyReference.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfoInputs.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfo.cs
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\obj\Debug\netcoreapp3.1\course.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\course\course\obj\Debug\netcoreapp3.1\course.pdb
