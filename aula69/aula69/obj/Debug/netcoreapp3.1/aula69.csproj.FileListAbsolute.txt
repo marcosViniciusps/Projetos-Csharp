@@ -1,0 +1,11 @@
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\bin\Debug\netcoreapp3.1\aula69.exe
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\bin\Debug\netcoreapp3.1\aula69.deps.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\bin\Debug\netcoreapp3.1\aula69.runtimeconfig.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\bin\Debug\netcoreapp3.1\aula69.runtimeconfig.dev.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\bin\Debug\netcoreapp3.1\aula69.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\bin\Debug\netcoreapp3.1\aula69.pdb
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\obj\Debug\netcoreapp3.1\aula69.csprojAssemblyReference.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\obj\Debug\netcoreapp3.1\aula69.AssemblyInfoInputs.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\obj\Debug\netcoreapp3.1\aula69.AssemblyInfo.cs
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\obj\Debug\netcoreapp3.1\aula69.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\aula69\aula69\obj\Debug\netcoreapp3.1\aula69.pdb
