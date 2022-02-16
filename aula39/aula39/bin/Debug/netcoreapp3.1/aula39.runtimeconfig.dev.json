@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mandioca\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mandioca\\.nuget\\packages"
+    ]
+  }
+}
