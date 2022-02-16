@@ -1,0 +1,11 @@
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\mandioca\Desktop\MARKIN\C#\projetos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
