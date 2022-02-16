@@ -1,0 +1,11 @@
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\bin\Debug\netcoreapp3.1\aula48_exercicio.exe
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\bin\Debug\netcoreapp3.1\aula48_exercicio.deps.json
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\bin\Debug\netcoreapp3.1\aula48_exercicio.runtimeconfig.json
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\bin\Debug\netcoreapp3.1\aula48_exercicio.runtimeconfig.dev.json
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\bin\Debug\netcoreapp3.1\aula48_exercicio.dll
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\bin\Debug\netcoreapp3.1\aula48_exercicio.pdb
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\obj\Debug\netcoreapp3.1\aula48_exercicio.csprojAssemblyReference.cache
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\obj\Debug\netcoreapp3.1\aula48_exercicio.AssemblyInfoInputs.cache
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\obj\Debug\netcoreapp3.1\aula48_exercicio.AssemblyInfo.cs
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\obj\Debug\netcoreapp3.1\aula48_exercicio.dll
+C:\Users\mandioca\source\repos\aula48_exercicio\aula48_exercicio\obj\Debug\netcoreapp3.1\aula48_exercicio.pdb

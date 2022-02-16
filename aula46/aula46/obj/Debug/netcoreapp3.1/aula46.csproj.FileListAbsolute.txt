@@ -1,0 +1,11 @@
+C:\Users\mandioca\source\repos\aula46\aula46\bin\Debug\netcoreapp3.1\aula46.exe
+C:\Users\mandioca\source\repos\aula46\aula46\bin\Debug\netcoreapp3.1\aula46.deps.json
+C:\Users\mandioca\source\repos\aula46\aula46\bin\Debug\netcoreapp3.1\aula46.runtimeconfig.json
+C:\Users\mandioca\source\repos\aula46\aula46\bin\Debug\netcoreapp3.1\aula46.runtimeconfig.dev.json
+C:\Users\mandioca\source\repos\aula46\aula46\bin\Debug\netcoreapp3.1\aula46.dll
+C:\Users\mandioca\source\repos\aula46\aula46\bin\Debug\netcoreapp3.1\aula46.pdb
+C:\Users\mandioca\source\repos\aula46\aula46\obj\Debug\netcoreapp3.1\aula46.csprojAssemblyReference.cache
+C:\Users\mandioca\source\repos\aula46\aula46\obj\Debug\netcoreapp3.1\aula46.AssemblyInfoInputs.cache
+C:\Users\mandioca\source\repos\aula46\aula46\obj\Debug\netcoreapp3.1\aula46.AssemblyInfo.cs
+C:\Users\mandioca\source\repos\aula46\aula46\obj\Debug\netcoreapp3.1\aula46.dll
+C:\Users\mandioca\source\repos\aula46\aula46\obj\Debug\netcoreapp3.1\aula46.pdb
